@@ -1,0 +1,10 @@
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\bin\Debug\BlackJackApp.exe.config
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\bin\Debug\BlackJackApp.exe
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\bin\Debug\BlackJackApp.pdb
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.Properties.Resources.resources
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.exe
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.pdb
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.PlayPage.resources
+C:\Users\Owner\Desktop\BlackJackApp\BlackJackApp\obj\Debug\BlackJackApp.StartPage.resources
